@@ -10,3 +10,5 @@ console.log(`Server running on PORT ${PORT}`);
 const path = path;
 
 console.log(path);
+
+const cors = require('cors');
